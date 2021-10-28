@@ -11,28 +11,21 @@ The designs were created to the following widths:
 
 ### Primary
 
-Moderate violet: hsl(263, 55%, 52%)
-Very dark grayish blue: hsl(217, 19%, 35%)
-Very dark blackish blue: hsl(219, 29%, 14%)
-White: hsl(0, 0%, 100%)
+- Moderate cyan: hsl(176, 50%, 47%)
+- Dark cyan: hsl(176, 72%, 28%)
 
 ### Neutral
 
-Light gray: hsl(0, 0%, 81%)
-Light grayish blue: hsl(210, 46%, 95%)
-
-Note for text colors:
-
-1. "Verified Graduate" has the same color as the person's name with 50% opacity
-2. Review paragraphs inside the quotations have the same color as well, but are at 70% opacity
+- Black: hsl(0, 0%, 0%)
+- Dark gray: hsl(0, 0%, 48%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 13px
+- Font size: 16px
 
 ### Font
 
-- Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
-- Weights: 500, 600
+- Family: [Commissioner](https://fonts.google.com/specimen/Commissioner)
+- Weights: 400, 500, 700
